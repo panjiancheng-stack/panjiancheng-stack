@@ -77,20 +77,6 @@
 
 ---
 
-### 🐍 贡献动态
-
-<div align="center">
-<img alt="snake" src="https://raw.githubusercontent.com/panjiancheng-stack/panjiancheng-stack/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
-### 📫 联系我
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-panjiancheng-stack-181717?style=flat-square&logo=github)](https://github.com/panjiancheng-stack)
-[![Blog](https://img.shields.io/badge/Blog-pjc.github.io-2ea44f?style=flat-square&logo=githubpages)](https://panjiancheng-stack.github.io/pjc.github.io/)
 
 </div>
 
